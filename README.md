@@ -1,1 +1,1 @@
-succ
+Antique Silverware is going to be a website for me and my friends, feel free to propose any changes
