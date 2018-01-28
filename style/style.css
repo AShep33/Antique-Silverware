@@ -1,0 +1,28 @@
+div a:links{
+    text-decoration:none;
+    Background-color:Black;
+    color:red;
+    padding:10px;
+    border-radius:7px;
+}
+
+body {
+	background-color: #BC4B4B;
+	text-align: center;
+}
+
+#wrapper {
+	width: 900px;
+	margin: 0 auto;
+}
+
+#content {
+	background-color: #ffffff;
+	border: 1px solid #000;
+	float: left;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 20px;
+	padding: 20px 30px;
+	text-align: left;
+	width: 100%;
+
